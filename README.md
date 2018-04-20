@@ -24,5 +24,7 @@ Bamazon is a store front application to interacts with a SQL database to update 
 ![](/images/retry.jpg)
 
 #Step 6:
-**User places an order and quantity requested is in stock. The user is notified that the order has been placed. The user is informed of their total and asked if they'd like to place another order. If the user chooses "Yes" they are taken back to the item list. If the user chooses "No" the connection is ended.**
+**User places an order and quantity requested is in stock. The user is notified that the order has been placed. The user is informed of their total and asked if they'd like to place another order. If the user chooses "Yes" they are taken back to the item list.**
 ![](/images/success.jpg)
+**If the user chooses "No" the connection is ended.**
+![](/images/goodbye.jpg)
