@@ -1,18 +1,18 @@
 # bamazon
 **Welcome To Bamazon!**
 
-Bamazon is a store front application that interacts with a SQL database to update inventories dynamically. It is extremely easy to use and allows the customer to make multiple purchases without having to restart the program.
+Bamazon is a store front application that interacts with an SQL database to update inventories dynamically. It is extremely easy to use and allows the customer to make multiple purchases without having to restart the program.
 
 #Step 1:
 **Run the file in node.**
 ![](/images/start.jpg)
 
 #Step 2:
-**The user looks over item list and enters the item ID of the item they'd like.**
+**The user looks over item list and enters the item ID of the item they'd like to purchase.**
 ![](/images/itemlist.jpg)
 
 #Step 3:
-**The user enters the quantity of the item they'd like to purchase.**
+**The user enters the number of items they'd like to purchase of the item selected.**
 ![](/images/quan.jpg)
 
 #Step4:
