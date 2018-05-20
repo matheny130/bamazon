@@ -1,4 +1,3 @@
-# bamazon
 **Welcome To Bamazon!**
 
 Bamazon is a store front application that interacts with an SQL database to update inventories dynamically. It is extremely easy to use and allows the customer to make multiple purchases without having to restart the program.
